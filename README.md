@@ -1,25 +1,25 @@
 # 👋 Hey there! I'm a Frontend Developer from India
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00D9FF&center=true&width=600&lines=Passionate+Frontend+Developer;Full+Stack+Enthusiast;Cloud+%26+DevOps+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00D9FF&center=true&width=600&lines=Passionate+Frontend+Developer;Full+Stack+Enthusiast;Cloud+%26+DevOps+Explorer" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-I'm a **creative and passionate frontend developer** with a love for building beautiful, responsive web applications. I specialize in modern web technologies and have a strong foundation in full-stack development with cloud infrastructure expertise.
+I'm a creative and passionate frontend developer with a love for building beautiful, responsive web applications. I specialize in modern web technologies and have a strong foundation in full-stack development with cloud infrastructure expertise.
 
-- 💻 **Frontend Focus**: React, TypeScript, Tailwind CSS
-- 🔧 **Full Stack Capabilities**: Node.js, Express, MongoDB, PostgreSQL
-- ☁️ **Cloud & DevOps**: AWS, Docker, Kubernetes, Nginx
-- 🎨 **Design Philosophy**: Clean code, responsive design, user-centric approach
+- 💻 Frontend Focus: React, TypeScript, Tailwind CSS
+- 🔧 Full Stack: Node.js, Express, MongoDB, PostgreSQL
+- ☁️ Cloud & DevOps: AWS, Docker, Kubernetes, Nginx
+- 🎨 Design Philosophy: Clean code, responsive design, user-centric approach
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### Frontend & UI
+**Frontend & UI**
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
@@ -41,7 +41,7 @@ I'm a **creative and passionate frontend developer** with a love for building be
   </a>
 </p>
 
-### Backend & Databases
+**Backend & Databases**
 <p>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
@@ -63,7 +63,7 @@ I'm a **creative and passionate frontend developer** with a love for building be
   </a>
 </p>
 
-### Cloud, DevOps & Tools
+**Cloud, DevOps & Tools**
 <p>
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
@@ -90,7 +90,7 @@ I'm a **creative and passionate frontend developer** with a love for building be
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrsanito&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -104,9 +104,16 @@ I'm a **creative and passionate frontend developer** with a love for building be
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsanito&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+#### 🐍 Contribution Snake Animation
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mrsanito/mrsanito/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mrsanito/mrsanito/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/mrsanito/mrsanito/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
-## 🎯 What I'm Currently Doing
+### 🎯 What I'm Currently Doing
 
 - 🔨 Building modern, responsive web applications
 - 📚 Exploring advanced React patterns and performance optimization
@@ -115,13 +122,13 @@ I'm a **creative and passionate frontend developer** with a love for building be
 
 ---
 
-## 💡 My Approach
+### 💡 My Approach
 
 ```
 User Experience → Clean Code → Performance → Scalability
 ```
 
-I believe in writing code that not only works but is also:
+I believe in writing code that is:
 - **Readable** - Easy to understand and maintain
 - **Performant** - Optimized for speed and efficiency  
 - **Scalable** - Built with growth in mind
@@ -129,18 +136,17 @@ I believe in writing code that not only works but is also:
 
 ---
 
-## 🌟 Featured Projects
+### 🌟 Featured Projects
 
-_Check out my repositories below to see what I'm working on!_
+Check out my repositories below to see what I'm working on!
 
-<!-- You can update these with your actual projects -->
 - 🎨 **Project Showcase** - Interactive portfolio featuring my best work
 - 🚀 **Full Stack Application** - End-to-end web application with modern tech stack
 - 📱 **Responsive Components** - Reusable React components library
 
 ---
 
-## 📞 Let's Connect!
+### 📞 Let's Connect!
 
 <div align="center">
 
@@ -148,12 +154,13 @@ _Check out my repositories below to see what I'm working on!_
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 </div>
 
 ---
 
-## 🎓 Always Learning
+### 🎓 Always Learning
 
 > "Code is poetry written for machines, but it must also be readable for humans."
 
@@ -162,9 +169,36 @@ I'm committed to continuous learning and staying updated with the latest technol
 ---
 
 <div align="center">
+
+### 💫 Key Metrics
+
+![Code Time](https://img.shields.io/badge/Lines%20of%20Code-1000%2B%20hrs-blue?style=flat-square)
+![Projects](https://img.shields.io/badge/Projects-25%2B-brightgreen?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-5%2B%20years-orange?style=flat-square)
+
+</div>
+
+<div align="center">
+
+### 🚀 Quick Stats
+
+| Stat | Count |
+|------|-------|
+| 📚 Languages | 12+ |
+| 🎯 Technologies | 20+ |
+| 💻 Projects | 25+ |
+| 🌟 GitHub Stars | Growing |
+
+</div>
+
+---
+
+<div align="center">
   
-**⭐ If you find my work interesting, feel free to star my repositories!**
+**✨ If you find my work interesting, feel free to star my repositories! ⭐**
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mrsanito.mrsanito)
+
+<img src="https://img.shields.io/github/followers/mrsanito?label=Followers&style=social" alt="Followers">
 
 </div>
