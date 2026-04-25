@@ -1,5 +1,5 @@
 # 👋 Hey there! I'm a Frontend Developer from India
-
+ 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00D9FF&center=true&width=600&lines=Passionate+Frontend+Developer;Full+Stack+Enthusiast;Cloud+%26+DevOps+Explorer" alt="Typing SVG" />
 </div>
