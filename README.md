@@ -1,204 +1,233 @@
-# 👋 Hey there! I'm a Frontend Developer from India
- 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00D9FF&center=true&width=600&lines=Passionate+Frontend+Developer;Full+Stack+Enthusiast;Cloud+%26+DevOps+Explorer" alt="Typing SVG" />
-</div>
-  
----
 
-### 🚀 About Me
+<!-- Dynamic Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=200&section=header&text=Hey,%20I'm%20mrsanito%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20Open%20Source%20Lover&descAlignY=58&descSize=16&animation=fadeIn" />
 
-I'm a creative and passionate frontend developer with a love for building beautiful, responsive web applications. I specialize in modern web technologies and have a strong foundation in full-stack development with cloud infrastructure expertise.
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80;React+%2B+Node+%2B+Cloud+%3D+My+Stack+%E2%9A%A1;Turning+coffee+into+scalable+apps+%E2%98%95;Always+learning%2C+always+shipping+%F0%9F%93%A6" alt="Typing SVG" />
 
-- 💻 Frontend Focus: React, TypeScript, Tailwind CSS
-- 🔧 Full Stack: Node.js, Express, MongoDB, PostgreSQL
-- ☁️ Cloud & DevOps: AWS, Docker, Kubernetes, Nginx
-- 🎨 Design Philosophy: Clean code, responsive design, user-centric approach
+<br/>
 
----
+<!-- Profile Views & Followers -->
+![Profile Views](https://komarev.com/ghpvc/?username=mrsanito&color=00d9ff&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/mrsanito?label=Followers&style=flat-square&color=00d9ff)](https://github.com/mrsanito?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/mrsanito?label=Total%20Stars&style=flat-square&color=00d9ff)](https://github.com/mrsanito)
 
-### 🛠️ Tech Stack
-
-**Frontend & UI**
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
-  </a>
-</p>
-
-**Backend & Databases**
-<p>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a>
-  <a href="https://redis.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/>
-  </a>
-</p>
-
-**Cloud, DevOps & Tools**
-<p>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrsanito&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsanito&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsanito&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-#### 🐍 Contribution Snake Animation
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mrsanito/mrsanito/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mrsanito/mrsanito/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/mrsanito/mrsanito/blob/output/github-contribution-grid-snake.svg">
-</picture>
-
 ---
 
-### 🎯 What I'm Currently Doing
+## 🧑‍💻 About Me
 
-- 🔨 Building modern, responsive web applications
-- 📚 Exploring advanced React patterns and performance optimization
-- 🌐 Expanding my cloud infrastructure knowledge with AWS
-- 🤝 Collaborating on open-source projects
-
----
-
-### 💡 My Approach
-
-```
-User Experience → Clean Code → Performance → Scalability
+```ts
+const mrsanito = {
+  location   : "India 🇮🇳",
+  role       : "Full Stack Developer",
+  focus      : ["React", "Node.js", "TypeScript", "AWS"],
+  currentWork: "Building scalable web applications",
+  learning   : ["Advanced System Design", "Kubernetes", "AI/ML Integration"],
+  hobbies    : ["Open Source", "Tech Blogging", "DSA", "Coffee ☕"],
+  philosophy : "Ship fast. Iterate faster. Never stop learning.",
+};
 ```
 
-I believe in writing code that is:
-- **Readable** - Easy to understand and maintain
-- **Performant** - Optimized for speed and efficiency  
-- **Scalable** - Built with growth in mind
-- **Accessible** - Inclusive for all users
+- 🔭 Currently building **full-stack applications** with React + Node.js + PostgreSQL
+- 🌱 Diving deeper into **System Design**, **AWS architecture**, and **DevOps pipelines**
+- 👯 Open to collaborating on **open-source projects** and **innovative startups**
+- 💬 Ask me about **React**, **TypeScript**, **REST APIs**, **Docker**, or **anything JS**
+- ⚡ Fun fact: I debug production issues faster with music on 🎧
 
 ---
 
-### 🌟 Featured Projects
+## 🛠️ Tech Stack
 
-Check out my repositories below to see what I'm working on!
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,sass,figma&theme=dark" />
+</p>
 
-- 🎨 **Project Showcase** - Interactive portfolio featuring my best work
-- 🚀 **Full Stack Application** - End-to-end web application with modern tech stack
-- 📱 **Responsive Components** - Reusable React components library
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma,rest&theme=dark" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite&theme=dark" />
+</p>
+
+### ☁️ Cloud, DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,git,github,linux,bash,firebase,vercel&theme=dark" />
+</p>
+
+### 🧰 Dev Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,webpack,vite,jest,cpp&theme=dark" />
+</p>
 
 ---
 
-### 📞 Let's Connect!
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrsanito)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
-</div>
-
----
-
-### 🎓 Always Learning
-
-> "Code is poetry written for machines, but it must also be readable for humans."
-
-I'm committed to continuous learning and staying updated with the latest technologies and best practices in web development.
-
----
-
-<div align="center">
-
-### 💫 Key Metrics
-
-![Code Time](https://img.shields.io/badge/Lines%20of%20Code-1000%2B%20hrs-blue?style=flat-square)
-![Projects](https://img.shields.io/badge/Projects-25%2B-brightgreen?style=flat-square)
-![Experience](https://img.shields.io/badge/Experience-5%2B%20years-orange?style=flat-square)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrsanito&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsanito&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-### 🚀 Quick Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsanito&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
-| Stat | Count |
-|------|-------|
-| 📚 Languages | 12+ |
-| 🎯 Technologies | 20+ |
-| 💻 Projects | 25+ |
-| 🌟 GitHub Stars | Growing |
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mrsanito&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=4" />
+
+</div>
+
+---
+
+## 🔥 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrsanito&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🎯 Project | 💡 Description | 🔧 Stack | ⭐ |
+|:-----------|:---------------|:---------|:--|
+| **[Project Alpha](#)** | Full-stack SaaS platform with auth, billing & dashboards | React, Node, PostgreSQL, Stripe | ![Stars](https://img.shields.io/badge/stars-★★★★★-FFD700?style=flat-square) |
+| **[DevComponents](#)** | Open-source React component library with TypeScript & Storybook | React, TypeScript, Rollup | ![Stars](https://img.shields.io/badge/stars-★★★★☆-FFD700?style=flat-square) |
+| **[CloudDeploy CLI](#)** | CLI tool for one-command AWS deployments with Docker & Kubernetes | Node.js, AWS SDK, Docker | ![Stars](https://img.shields.io/badge/stars-★★★★☆-FFD700?style=flat-square) |
+| **[RealtimeBoard](#)** | Collaborative whiteboard app with WebSockets & Canvas API | React, Socket.io, Redis, Node | ![Stars](https://img.shields.io/badge/stars-★★★☆☆-FFD700?style=flat-square) |
+
+</div>
+
+> 📌 *Check out pinned repos below for live demos and source code!*
+
+---
+
+## 🏆 Achievements & Milestones
+
+<div align="center">
+
+| 🏅 Achievement | 📦 Count |
+|:---------------|:---------|
+| 💻 Languages Known | 12+ |
+| 🛠️ Technologies Used | 25+ |
+| 📁 Projects Shipped | 25+ |
+| ☁️ Cloud Deployments | Multiple |
+| 🐛 Bugs Squashed | ∞ |
+| ☕ Coffees Consumed | Uncountable |
+
+</div>
+
+---
+
+## 📈 Contribution Snapshot
+
+<div align="center">
+
+**📅 Commits** • **🔀 Pull Requests** • **🐛 Issues** • **👀 Code Reviews**
+
+```
+Q1 2024  ████████████████░░░░  80%
+Q2 2024  ██████████████████░░  90%
+Q3 2024  ████████████████████  100% 🔥
+Q4 2024  ███████████████████░  95%
+```
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mrsanito/mrsanito/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/mrsanito/mrsanito/blob/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://github.com/mrsanito/mrsanito/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 💡 My Development Philosophy
+
+```
+       ┌─────────────┐
+       │  PROBLEM    │
+       └──────┬──────┘
+              │
+       ┌──────▼──────┐
+       │   DESIGN    │  ← Think before you code
+       └──────┬──────┘
+              │
+       ┌──────▼──────┐
+       │    BUILD    │  ← Clean, readable, typed
+       └──────┬──────┘
+              │
+       ┌──────▼──────┐
+       │    TEST     │  ← Unit · Integration · E2E
+       └──────┬──────┘
+              │
+       ┌──────▼──────┐
+       │   DEPLOY    │  ← CI/CD · Docker · AWS
+       └──────┬──────┘
+              │
+       ┌──────▼──────┐
+       │   ITERATE   │  ← Monitor · Improve · Repeat
+       └─────────────┘
+```
+
+> *"The best code is no code. The second best is code you'll still understand in 6 months."*
+
+---
+
+## 🎯 2025 Goals
+
+- [ ] 🚀 Launch a production SaaS product
+- [ ] 📦 Publish an npm package with 1k+ downloads
+- [ ] ☁️ Earn AWS Solutions Architect certification
+- [ ] 🌍 Contribute to 5+ open-source projects
+- [ ] ✍️ Write 12 technical blog posts
+- [ ] 🤝 Mentor junior developers
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrsanito)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://zynito.in)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalni2004@gmail.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mrsanito)
+
+<br/>
+
+**💼 Open to:** Freelance projects · Full-time roles · Open-source collaboration · Tech consultations
 
 </div>
 
 ---
 
 <div align="center">
-  
-**✨ If you find my work interesting, feel free to star my repositories! ⭐**
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mrsanito.mrsanito)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=120&section=footer&animation=fadeIn" />
 
-<img src="https://img.shields.io/github/followers/mrsanito?label=Followers&style=social" alt="Followers">
+**✨ Thanks for visiting! If you like what you see, drop a ⭐ on something — it means a lot!**
 
 </div>
