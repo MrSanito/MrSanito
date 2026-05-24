@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <!-- Dynamic Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=200&section=header&text=Hey,%20I'm%20mrsanito%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20Open%20Source%20Lover&descAlignY=58&descSize=16&animation=fadeIn" />
 
