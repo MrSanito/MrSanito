@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80;React+%2B+Node+%2B+Cloud+%3D+My+Stack+%E2%9A%A1;Turning+coffee+into+scalable+apps+%E2%98%95;Always+learning%2C+always+shipping+%F0%9F%93%A6" alt="Typing SVG" />
-
+ 
 <br/>
 
 <!-- Profile Views & Followers -->
