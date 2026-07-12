@@ -99,54 +99,17 @@ const mrsanito = {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 <div align="center">
 
-| 🎯 Project | 💡 Description | 🔧 Stack | ⭐ |
-|:-----------|:---------------|:---------|:--|
-| **[Project Alpha](#)** | Full-stack SaaS platform with auth, billing & dashboards | React, Node, PostgreSQL, Stripe | ![Stars](https://img.shields.io/badge/stars-★★★★★-FFD700?style=flat-square) |
-| **[DevComponents](#)** | Open-source React component library with TypeScript & Storybook | React, TypeScript, Rollup | ![Stars](https://img.shields.io/badge/stars-★★★★☆-FFD700?style=flat-square) |
-| **[CloudDeploy CLI](#)** | CLI tool for one-command AWS deployments with Docker & Kubernetes | Node.js, AWS SDK, Docker | ![Stars](https://img.shields.io/badge/stars-★★★★☆-FFD700?style=flat-square) |
-| **[RealtimeBoard](#)** | Collaborative whiteboard app with WebSockets & Canvas API | React, Socket.io, Redis, Node | ![Stars](https://img.shields.io/badge/stars-★★★☆☆-FFD700?style=flat-square) |
+| 🎯 Project | 💡 Description | 🔧 Stack |
+|:-----------|:---------------|:---------|
+| **[QuizMaster Turbo](#)** | Real-time multiplayer quiz platform (MCA major project) with a real-time multiplayer engine and an advanced JWT/OTP/DPoP authentication system | React, Node.js, WebSockets, JWT/OTP/DPoP Auth |
 
 </div>
 
-> 📌 *Check out pinned repos below for live demos and source code!*
-
----
-
-## 🏆 Achievements & Milestones
-
-<div align="center">
-
-| 🏅 Achievement | 📦 Count |
-|:---------------|:---------|
-| 💻 Languages Known | 12+ |
-| 🛠️ Technologies Used | 25+ |
-| 📁 Projects Shipped | 25+ |
-| ☁️ Cloud Deployments | Multiple |
-| 🐛 Bugs Squashed | ∞ |
-| ☕ Coffees Consumed | Uncountable |
-
-</div>
-
----
-
-## 📈 Contribution Snapshot
-
-<div align="center">
-
-**📅 Commits** • **🔀 Pull Requests** • **🐛 Issues** • **👀 Code Reviews**
-
-```
-Q1 2024  ████████████████░░░░  80%
-Q2 2024  ██████████████████░░  90%
-Q3 2024  ████████████████████  100% 🔥
-Q4 2024  ███████████████████░  95%
-```
-
-</div>
+> 📌 *This is my MCA major project — built with a focus on real-time multiplayer gameplay and a hardened auth system (auth2). Check the pinned repo for source code!*
 
 ---
 
@@ -191,17 +154,6 @@ Q4 2024  ███████████████████░  95%
 ```
 
 > *"The best code is no code. The second best is code you'll still understand in 6 months."*
-
----
-
-## 🎯 2025 Goals
-
-- [ ] 🚀 Launch a production SaaS product
-- [ ] 📦 Publish an npm package with 1k+ downloads
-- [ ] ☁️ Earn AWS Solutions Architect certification
-- [ ] 🌍 Contribute to 5+ open-source projects
-- [ ] ✍️ Write 12 technical blog posts
-- [ ] 🤝 Mentor junior developers
 
 ---
 
