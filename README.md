@@ -99,17 +99,52 @@ const mrsanito = {
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Project — QuizMaster Turbo
 
 <div align="center">
 
-| 🎯 Project | 💡 Description | 🔧 Stack |
-|:-----------|:---------------|:---------|
-| **[QuizMaster Turbo](#)** | Real-time multiplayer quiz platform (MCA major project) with a real-time multiplayer engine and an advanced JWT/OTP/DPoP authentication system | React, Node.js, WebSockets, JWT/OTP/DPoP Auth |
+### 🎮 Real-Time Multiplayer Quiz Platform — *MCA Major Project*
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,redis,docker&theme=dark" />
+</p>
 
 </div>
 
-> 📌 *This is my MCA major project — built with a focus on real-time multiplayer gameplay and a hardened auth system (auth2). Check the pinned repo for source code!*
+QuizMaster Turbo is a **full-scale real-time multiplayer quiz platform**, architected as a proper **Turborepo monorepo** with independent services, a custom real-time engine, and a from-scratch authentication system built to production-grade security standards — not a weekend project.
+
+### ⚡ Real-Time Multiplayer Engine
+
+- Live quiz rooms powered by a **Socket.IO microservice** running independently of the main API, so gameplay traffic never blocks core business logic
+- Supports **multiple concurrent rooms** with isolated game state per room (players, scores, current question, timers)
+- Server-authoritative **question timer & scoring sync** — every player's clock is reconciled against the server so no one can cheat by manipulating client-side timers
+- **Event-driven architecture** for room lifecycle: create room → join → ready-up → question broadcast → answer submission → live leaderboard update → next round
+- Built for **low-latency state broadcasting** across all connected clients in a room simultaneously
+- Designed to scale horizontally — the socket layer is decoupled so more instances can be added behind the service as load grows
+
+### 🔐 Auth2 — Custom Authentication System
+
+The auth layer (internally called **Auth2**) was built from the ground up instead of dropping in an off-the-shelf auth library. Here's what it uses and how the pieces fit together:
+
+- **JWT access tokens** — short-lived tokens used for actual API authorization, kept deliberately short-lived to limit the damage window if one leaks
+- **DPoP (Demonstrating Proof-of-Possession)** — every request is bound to a private key held by the client, so even a stolen access token is useless without the matching key; this is layered on top of the standard bearer-token model
+- **Rotating refresh tokens** — every time a refresh token is used to get a new access token, it's invalidated and replaced with a new one; if an old/used refresh token ever gets replayed, the system can detect it and kill the whole session chain
+- **Passwordless login flow (OTP-based)** — no passwords stored at all; users authenticate via a one-time code, removing password database breaches as an attack surface entirely
+- **Session chain tracking** — refresh token rotation is tracked per-device/session so a compromised session can be revoked without logging the user out everywhere
+- **Redis-backed token/session store** — fast lookups for token validation and revocation checks without hammering the primary database
+
+### 📦 Monorepo & Infrastructure
+
+- Built on **Turborepo** — frontend, backend, and the socket microservice all live as separate packages sharing common types/utilities, with cached, parallelized builds
+- Clear separation of concerns: `apps/` for deployable services, `packages/` for shared logic (types, auth utils, UI components)
+- **Docker**-ready service setup for consistent local dev and deployment
+- **MCA project report** generated programmatically using Python + ReportLab, pulling structure straight from the codebase for academic submission
+
+| 🎯 Project | 💡 Description | 🔧 Stack |
+|:-----------|:---------------|:---------|
+| **[QuizMaster Turbo](#)** | Real-time multiplayer quiz platform (MCA major project) with a Socket.IO-based multiplayer engine and a custom-built JWT/OTP/DPoP authentication system | React, Node.js, Socket.IO, WebSockets, Turborepo, Redis, Docker, JWT/OTP/DPoP Auth |
+
+> 📌 *This is my MCA major project — a full-scale build with a real-time multiplayer engine and a hardened, from-scratch auth system (Auth2). Check the pinned repo for source code!*
 
 ---
 
