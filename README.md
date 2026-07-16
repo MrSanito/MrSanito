@@ -16,29 +16,7 @@
 </div>
 
 ---
-
-## 🧑‍💻 About Me
-
-```ts
-const mrsanito = {
-  location   : "India 🇮🇳",
-  role       : "Full Stack Developer",
-  focus      : ["React", "Node.js", "TypeScript", "AWS"],
-  currentWork: "Building scalable web applications",
-  learning   : ["Advanced System Design", "Kubernetes", "AI/ML Integration"],
-  hobbies    : ["Open Source", "Tech Blogging", "DSA", "Coffee ☕"],
-  philosophy : "Ship fast. Iterate faster. Never stop learning.",
-};
-```
-
-- 🔭 Currently building **full-stack applications** with React + Node.js + PostgreSQL
-- 🌱 Diving deeper into **System Design**, **AWS architecture**, and **DevOps pipelines**
-- 👯 Open to collaborating on **open-source projects** and **innovative startups**
-- 💬 Ask me about **React**, **TypeScript**, **REST APIs**, **Docker**, or **anything JS**
-- ⚡ Fun fact: I debug production issues faster with music on 🎧
-
----
-
+ 
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
@@ -160,38 +138,7 @@ The auth layer (internally called **Auth2**) was built from the ground up instea
 
 ---
 
-## 💡 My Development Philosophy
-
-```
-       ┌─────────────┐
-       │  PROBLEM    │
-       └──────┬──────┘
-              │
-       ┌──────▼──────┐
-       │   DESIGN    │  ← Think before you code
-       └──────┬──────┘
-              │
-       ┌──────▼──────┐
-       │    BUILD    │  ← Clean, readable, typed
-       └──────┬──────┘
-              │
-       ┌──────▼──────┐
-       │    TEST     │  ← Unit · Integration · E2E
-       └──────┬──────┘
-              │
-       ┌──────▼──────┐
-       │   DEPLOY    │  ← CI/CD · Docker · AWS
-       └──────┬──────┘
-              │
-       ┌──────▼──────┐
-       │   ITERATE   │  ← Monitor · Improve · Repeat
-       └─────────────┘
-```
-
-> *"The best code is no code. The second best is code you'll still understand in 6 months."*
-
----
-
+ 
 ## 📬 Let's Connect
 
 <div align="center">
