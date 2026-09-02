@@ -21,27 +21,27 @@
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,sass,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma,rest&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,rest&theme=dark" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis&theme=dark" />
 </p>
 
 ### ☁️ Cloud, DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,git,github,linux,bash,firebase,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,vercel&theme=dark" />
 </p>
 
 ### 🧰 Dev Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,webpack,vite,jest,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,vite&theme=dark" />
 </p>
 
 ---
