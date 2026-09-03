@@ -26,7 +26,7 @@
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,rest&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" />
 </p>
 
 ### 🗄️ Databases
@@ -34,14 +34,9 @@
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis&theme=dark" />
 </p>
 
-### ☁️ Cloud, DevOps & Tools
+### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,vercel&theme=dark" />
-</p>
-
-### 🧰 Dev Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" />
 </p>
 
 ---
